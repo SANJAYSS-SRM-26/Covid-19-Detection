@@ -7,3 +7,5 @@ The code includes data preprocessing, model training, evaluation, and testing fu
 
 ## Run the code:
 `python covid_detection.py`
+
+## Models to be uploaded : will update soon....
