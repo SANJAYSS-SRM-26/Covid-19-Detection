@@ -8,4 +8,6 @@ The code includes data preprocessing, model training, evaluation, and testing fu
 ## Run the code:
 `python covid_detection.py`
 
+## This is made with reference to OpenCV course from GreatLearning.
+
 ## Models to be uploaded : will update soon....
