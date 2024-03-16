@@ -10,4 +10,4 @@ The code includes data preprocessing, model training, evaluation, and testing fu
 
 ## This is made with reference to OpenCV course from GreatLearning.
 
-## Models to be uploaded : will update soon....
+## files/images uploaded
